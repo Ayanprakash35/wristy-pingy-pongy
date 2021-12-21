@@ -14,7 +14,13 @@
     border: 1px solid whitesmoke;
 }
 
-#start, #status
+#start, #status, #restart
 {
     font-size: 22px;
+}
+
+.modal-dialog
+{
+    width: 50%;
+    font-size: medium;
 }
