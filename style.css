@@ -24,3 +24,7 @@
     width: 50%;
     font-size: medium;
 }
+
+canvas{
+    box-shadow: 15px,15px,15px,grey;
+}
